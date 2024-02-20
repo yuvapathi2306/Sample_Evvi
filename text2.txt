@@ -1,0 +1,14 @@
+gyp javascript-common libc-ares2 libjs-events libjs-highlight.js
+  libjs-inherits libjs-is-typedarray libjs-psl libjs-source-map
+  libjs-sprintf-js libjs-typedarray-to-buffer libssl-dev libuv1-dev
+  node-abbrev node-ansi-regex node-ansi-styles node-ansistyles
+  node-are-we-there-yet node-arrify node-asap node-asynckit
+  node-balanced-match node-brace-expansion node-chownr node-clean-yaml-object
+  node-color-convert node-color-name node-commander node-core-util-is
+  node-decompress-response node-delayed-stream node-delegates node-depd
+  node-diff node-encoding node-end-of-stream node-err-code
+  node-escape-string-regexp node-fancy-log node-foreground-child
+  node-fs.realpath node-function-bind node-get-stream node-glob node-growl
+  node-has-flag node-has-unicode node-hosted-git-info node-iconv-lite
+  node-iferr node-imurmurhash node-indent-string node-inflight node-inherits
+  node-ini node-ip node-ip-regex node-is-buffer node-is-pl

@@ -1,0 +1,12 @@
+gn:1 https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/7.0 InRelease
+Hit:2 https://deb.nodesource.com/node_19.x jammy InRelease                     
+Hit:3 http://in.archive.ubuntu.com/ubuntu jammy InRelease                      
+Get:4 http://security.ubuntu.com/ubuntu jammy-security InRelease [110 kB]      
+Get:5 http://in.archive.ubuntu.com/ubuntu jammy-updates InRelease [119 kB]     
+Hit:6 https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/7.0 Release        
+Hit:7 https://apt.postgresql.org/pub/repos/apt jammy-pgdg InRelease            
+Hit:8 https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/jammy pgadmin4 InRelease
+Hit:10 http://in.archive.ubuntu.com/ubuntu jammy-backports InRelease           
+Fetched 229 kB in 2s (112 kB/s)                          
+Reading package lists... Done
+N: Skipping acquire of configured file 'main/binary-i386/Packages' as repository 'https://apt.postgresql.org/pub/repos/apt jammy-pgdg InRelease' doesn't support architecture 'i386'
